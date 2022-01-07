@@ -1,0 +1,241 @@
+body{
+    margin: 0 ;
+    padding: 0;
+}
+.header-main{
+    width: 80%;
+    display: flex ;
+    margin: 0 auto ;
+    justify-content: space-between;
+}
+.intro{
+        width: 45%;
+        
+    }
+    .intro span{
+        color: rgb(246, 154, 56);
+    }
+.intro h1{
+    font-size: 50px;
+    font-weight: 700 ;
+    padding-left: 10px ;
+    border-left: 5px solid rgb(246, 154, 56);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.image{
+    width: 45%;
+    padding-top: 30px;
+}
+.intro p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    padding: 15px 30px;
+    background-color: rgb(246, 154, 56);
+    color: #fff;
+    border-radius: 7px;
+
+}
+a{
+    text-decoration: none ;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/**my code */
+
+
+
+#second-heder h2{
+    
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  #second-heder span{
+    color: rgb(246, 154, 56) ;
+    
+  }
+
+  .second-heder-main{
+      display: flex;
+      justify-content: space-between;
+      width: 80%;
+      margin: 0 auto;
+  }
+
+  .second-heder-1{
+ background-color: powderblue;
+ padding: 10px;
+ width: 30%;
+ border-radius: 10px;
+ font-family: 'Courier New', Courier, monospace;
+  }
+  .second-heder-2{
+background-color: rgb(240, 190, 181);
+padding: 10px;
+width: 30%;
+border-radius: 10px;
+font-family: 'Courier New', Courier, monospace;
+}
+.second-heder-3{
+background-color: rgb(226, 221, 231);
+padding: 10px;
+width: 30%;
+border-radius: 10px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+/** ei tuku perfect*/
+#second-part{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.fifth-header-main .intro{
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    
+    width: 80%;
+    display: flex;
+    margin: 0 auto ;
+    justify-content: space-between;
+}
+
+.M-image {
+    width: 50%;
+}
+
+.M-image img {
+    width: 100%;
+}
+.third-intro{
+        width: 45%;
+            }
+            .box h3{
+                
+                font-size: 25px;
+                font-weight: 700 ;font-family: 'Courier New', Courier, monospace;
+            }
+            
+.box p{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.third-heder-main{
+    background-color: rgb(241, 241, 189);
+    width: 330px;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.fourth-heder-main{
+    background-color:rgb(247, 203, 209) ; 
+    width: 330px;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+.fifth-heder-main{
+    background-color: rgb(191, 237, 243);
+    width: 330px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+
+ .third-header-main{
+     display: flex;
+     width: 80%;
+     margin: 0 auto;
+     justify-content: space-between;
+ }
+ .third-image{
+     width: 50%;
+ }
+ .third-image img{
+  width: 80%;
+ }
+ .third-details{
+     
+     width: 50%;
+     font-family: 'Courier New', Courier, monospace;
+ }
+
+ /*fourth part*/
+
+ .fourth-header-main{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.fourth-image{
+    width: 50%;
+    margin-top: 30px;
+}
+.fourth-image img{
+ width: 80%;
+}
+.fourth-details{
+    
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ /*fifth part*/
+
+ .fifth-header-main{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.fifth-image{
+    width: 50%;
+    margin-top: 30px;
+}
+.fifth-image img{
+ width: 80%;
+}
+.fifth-details{
+    
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#footer{
+    
+    background-color: rgba(60, 62, 62, 0.892);
+}
+
+#footer h2{
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0;
+  
+    
+    
+}
+
+#footer span{
+    color: rgb(246, 154, 56);
+    font-family: cursive;
+    
+}
+#footer p{
+    text-align: center;
+    font-family: monospace;
+    color: #fff;
+    padding-bottom: 10px;
+}
